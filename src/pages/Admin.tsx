@@ -143,7 +143,7 @@ const Admin = () => {
     e.preventDefault();
 
     // Hardcoded credentials for local admin panel access
-    if (username === "vico" && password === "vic1404174") {
+    if (username === "vico" && password === "Adefemi1234@") {
       setIsLoggedIn(true);
       toast.success("Login successful!");
     } else {
