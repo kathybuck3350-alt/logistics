@@ -9,7 +9,7 @@ const SecondNavbar = () => {
         <div className="flex items-center justify-between">
           <Link to="/">
             <img
-              src="/assets/fedex-logo.svg"
+              src="/assets/logo.png"
               alt="Shipvia"
               className="h-10 md:h-12 w-auto object-contain"
             />

@@ -560,7 +560,7 @@ const Admin = () => {
         <div className="h-1 bg-gradient-to-r from-[#1F6FB2] to-[#2FAF9B]" />
         <div className="container mx-auto px-4 py-4 flex items-center justify-between">
           <div className="flex items-center gap-3">
-            <img src="/assets/fedex-logo.svg" alt="Shipvia" className="h-10 w-auto object-contain" />
+            <img src="/assets/logo.png" alt="Shipvia" className="h-10 w-auto object-contain" />
             <h1 className="text-xl font-bold text-gray-900">Ship Center - Admin</h1>
           </div>
           <Button variant="outline" onClick={() => setIsLoggedIn(false)}>
